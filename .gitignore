@@ -1,0 +1,41 @@
+# =========================
+# Entornos Virtuales
+# =========================
+venv/
+env/
+.venv/
+
+# =========================
+# Python Cache y Compilados
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# =========================
+# Configuraciones Locales (Variables de entorno)
+# =========================
+.env
+config_local.py
+
+# =========================
+# IDEs y Editores de Texto
+# =========================
+.geany
+.geany/
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# Archivos del Sistema Operativo
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs y debug de hardware
+# =========================
+*.log
